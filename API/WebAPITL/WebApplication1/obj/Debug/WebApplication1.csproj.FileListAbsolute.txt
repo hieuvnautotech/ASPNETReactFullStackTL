@@ -83,3 +83,6 @@ D:\bt_NetReactFullStack\ASPNETReactFullStackTL\API\WebAPITL\WebApplication1\obj\
 D:\bt_NetReactFullStack\ASPNETReactFullStackTL\API\WebAPITL\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 D:\bt_NetReactFullStack\ASPNETReactFullStackTL\API\WebAPITL\WebApplication1\obj\Debug\WebApplication1.dll
 D:\bt_NetReactFullStack\ASPNETReactFullStackTL\API\WebAPITL\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\bt_NetReactFullStack\ASPNETReactFullStackTL\API\WebAPITL\WebApplication1\bin\System.Web.Cors.dll
+D:\bt_NetReactFullStack\ASPNETReactFullStackTL\API\WebAPITL\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\bt_NetReactFullStack\ASPNETReactFullStackTL\API\WebAPITL\WebApplication1\bin\System.Web.Http.Cors.xml
